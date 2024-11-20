@@ -1,0 +1,90 @@
+
+Quartz3DB = {
+["namespaces"] = {
+["Swing"] = {
+},
+["Buff"] = {
+},
+["LibDualSpec-1.0"] = {
+},
+["Flight"] = {
+},
+["Pet"] = {
+["profiles"] = {
+["Default"] = {
+["w"] = 105,
+["y"] = -195.598876953125,
+["point"] = "LEFT",
+["x"] = 444.3018798828125,
+},
+},
+},
+["Range"] = {
+},
+["Mirror"] = {
+},
+["Player"] = {
+["profiles"] = {
+["Default"] = {
+["h"] = 30,
+["y"] = -154.4000854492188,
+["font"] = "聊天",
+["point"] = "CENTER",
+["border"] = "1 Pixel",
+["texture"] = "Clean",
+["hideicon"] = true,
+["nametextx"] = 0,
+["x"] = 0,
+},
+},
+},
+["GCD"] = {
+["profiles"] = {
+["Default"] = {
+["gcdalpha"] = 1,
+["gcdheight"] = 8,
+},
+},
+},
+["Focus"] = {
+["profiles"] = {
+["Default"] = {
+["w"] = 120,
+["y"] = -130.3993835449219,
+["x"] = 318.5991821289063,
+["point"] = "CENTER",
+},
+},
+},
+["Target"] = {
+["profiles"] = {
+["Default"] = {
+["w"] = 125,
+["y"] = -153.5997009277344,
+["iconposition"] = "left",
+["point"] = "CENTER",
+["x"] = -219.7992553710938,
+},
+},
+},
+["Interrupt"] = {
+},
+["EnemyCasts"] = {
+},
+["Latency"] = {
+},
+},
+["profileKeys"] = {
+["彭浦新村 - 芬里斯"] = "Default",
+["哥斯拉之魂 - 主宰之剑"] = "Default",
+["共康路 - 芬里斯"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["modules"] = {
+["Swing"] = false,
+["Buff"] = false,
+},
+},
+},
+}

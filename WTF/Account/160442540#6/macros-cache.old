@@ -1,0 +1,42 @@
+VER 3 000000000000007F "三角" "132222"
+#showtooltip
+/wm 2
+END
+VER 3 0000000000000081 "叉" "132222"
+#showtooltip
+/wm 4
+END
+VER 3 000000000000007D "取消目标" "136103"
+/cleartarget
+END
+VER 3 000000000000007C "姓名板重叠/堆叠" "134331"
+/run local cv = GetCVar("nameplateMotion"); if cv == "1" then SetCVar("nameplateMotion", "0"); print("姓名板切换为重叠模式"); else SetCVar("nameplateMotion", "1"); print("姓名板切换为堆叠模式"); end
+END
+VER 3 000000000000007E "方块" "132222"
+#showtooltip
+/wm 1
+END
+VER 3 0000000000000055 "毒奶自己" "132273"
+/cast [@player]活血术
+END
+VER 3 0000000000000056 "毒奶雕像" "132273"
+/target 玄牛雕像
+/cast 活血术
+END
+VER 3 0000000000000082 "清空标记" "132222"
+/cwm 0
+END
+VER 3 0000000000000061 "焦点" "132212"
+/focus [@mouseover, nodead] mouseover
+END
+VER 3 0000000000000053 "玄牛平心" "538570"
+/cast [@cursor,mod:ctrl]召唤玄牛雕像
+/cast [nomod]平心之环
+END
+VER 3 0000000000000080 "菱形" "132222"
+#showtooltip
+/wm 3
+END
+VER 3 0000000000000054 "跳舞" "294471"
+/dance
+END

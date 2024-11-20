@@ -1,0 +1,25 @@
+
+TipTac_Config = {
+["version_TipTac_Config"] = "24.09.02",
+["if_showItemId"] = true,
+["if_showIconId"] = false,
+["left"] = 252.5996398925781,
+["if_showCurrencyId"] = false,
+["optionsLeft"] = 138.30029296875,
+["anchorWorldUnitPoint"] = "BOTTOMRIGHT",
+["if_showSpellIdAndRank"] = true,
+["if_borderlessIcons"] = false,
+["anchorWorldTipPoint"] = "BOTTOMRIGHT",
+["minimapConfig"] = {
+["minimapPos"] = 345.4012891325796,
+},
+["anchorWorldUnitType"] = "normal",
+["if_showItemLevel"] = true,
+["top"] = 229.2010803222656,
+["optionsBottom"] = 490.9999389648438,
+["anchorFrameTipPoint"] = "BOTTOMRIGHT",
+["anchorFrameUnitPoint"] = "BOTTOMRIGHT",
+["anchorWorldTipType"] = "normal",
+["anchorFrameUnitType"] = "normal",
+["anchorFrameTipType"] = "normal",
+}

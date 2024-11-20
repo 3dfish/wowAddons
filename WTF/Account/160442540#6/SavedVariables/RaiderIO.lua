@@ -1,0 +1,83 @@
+
+RaiderIO_Config = {
+["minimapIcon"] = {
+["minimapPos"] = 141.6999259532004,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+}
+RaiderIO_LastCharacter = "cn-彭浦新村-fenris"
+RaiderIO_MissingCharacters = {
+["cn-潮昇-shadowmourne"] = true,
+["cn-不吃鱼爱喝汤-emeriss"] = true,
+["cn-Sunbreak-eldrethalas"] = true,
+["cn-Martincx-fenris"] = true,
+["cn-唐二炮-voljin"] = true,
+["cn-彭浦新村-fenris"] = true,
+["cn-凉拌橘子-rhonin"] = true,
+["cn-风暴一壶酒-anzu"] = true,
+["cn-秦时惘-pandaren"] = true,
+["cn-Xiuman-archimonde"] = true,
+["cn-戰丶犯-archimonde"] = true,
+["cn-欧安-sutarn"] = true,
+["cn-怂不了一点-the-masters-glaive"] = true,
+["cn-party5-fenris"] = true,
+["cn-Matincx-fenris"] = true,
+["cn-二呀嘛二丶-dark-iron"] = true,
+["cn-睦月丶-anzu"] = true,
+["cn-唐大炮-voljin"] = true,
+["cn-蓝芯雨-dordanil"] = true,
+["cn-Walalilongla-shadowmourne"] = true,
+["cn-party4-fenris"] = true,
+["cn-戰极寒丶-the-underbog"] = true,
+["cn-Fungal-shadowmourne"] = true,
+["cn-法耶-eranikus"] = true,
+["cn-贰零壹雲镸-searinox"] = true,
+["cn-烈酒-searinox"] = true,
+["cn-头悬市曹何故-silver-hand"] = true,
+["cn-柠檬兔头-blanchard"] = true,
+["cn-窈窕小妞妞-karazhan"] = true,
+["cn-见怪头一个冲-searinox"] = true,
+["cn-丝丝入肉-searinox"] = true,
+["cn-八沢镜-fray-island"] = true,
+["cn-同谋-shadowmourne"] = true,
+["cn-聪匆-fenris"] = true,
+["cn-伊利达雷领主-fenris"] = true,
+["cn-恶魔王逸-alterac-mountains"] = true,
+["cn-小钳子-frostmourne"] = true,
+["cn-我奶死你-fenris"] = true,
+["cn-Wumiao-pandaren"] = true,
+["cn-灬韦恩灬-sacrolash"] = true,
+["cn-我戳死你-fenris"] = true,
+["cn-西米露-fenris"] = true,
+["cn-抬腿丶-the-great-sea"] = true,
+["cn-一羊羊一-karazhan"] = true,
+["cn-Slug-force-of-elemental"] = true,
+["cn-小钳子-pandaren"] = true,
+["cn-灬不言-alar"] = true,
+["cn-我震死你-fenris"] = true,
+["cn-勿丶恋-wrath-gate"] = true,
+["cn-西瓜懒妖-anzu"] = true,
+["cn-沛将军-anzu"] = true,
+["cn-苍井瑟瑟-fenris"] = true,
+["cn-小丘傻馒-fenris"] = true,
+["cn-魔倾乾坤-frostmourne"] = true,
+["cn-昶魑乀-dark-iron"] = true,
+["cn-李药师-the-masters-glaive"] = true,
+["cn-Eoon-voljin"] = true,
+["cn-甘露寺蜜璃-fenris"] = true,
+["cn-武藏-fenris"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

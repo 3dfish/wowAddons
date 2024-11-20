@@ -1,0 +1,825 @@
+
+MATAB = {
+["PROFILES"] = {
+["DEFAULT"] = {
+["ELES"] = {
+["POINTS"] = {
+["MALock"] = {
+},
+},
+["SIZES"] = {
+},
+["OPTIONS"] = {
+["CHAT5"] = {
+["ENABLED"] = false,
+},
+["EXTRAABILITYCONTAINER"] = {
+["ENABLED"] = false,
+},
+["QUESTTRACKER"] = {
+["ENABLED"] = false,
+},
+["CHAT10"] = {
+["ENABLED"] = false,
+},
+["SCALELOOTFRAME"] = {
+["ENABLED"] = false,
+},
+["STANCEBAR"] = {
+["ENABLED"] = false,
+},
+["MINIMAP"] = {
+["ENABLED"] = false,
+},
+["TOTEMFRAME"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR6"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME8"] = {
+["ENABLED"] = false,
+},
+["CHAT6"] = {
+["ENABLED"] = false,
+},
+["ESSENCEPLAYERFRAME"] = {
+["ENABLED"] = false,
+},
+["RUNEFRAME"] = {
+["ENABLED"] = false,
+},
+["CHAT3"] = {
+["ENABLED"] = false,
+},
+["PETBAR"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR2"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR5"] = {
+["ENABLED"] = false,
+},
+["HIDEHIDDENFRAMES"] = {
+["ENABLED"] = false,
+},
+["ARCHEOLOGYDIGSITEPROGRESSBAR"] = {
+["ENABLED"] = false,
+},
+["PLAYERLEVELTEXT"] = {
+["ENABLED"] = false,
+},
+["ROLEPOLLPOPUP"] = {
+["ENABLED"] = false,
+},
+["MAGEARCANECHARGESFRAME"] = {
+["ENABLED"] = false,
+},
+["BAGS"] = {
+["ENABLED"] = false,
+},
+["TARGETFRAMESPELLBAR"] = {
+["ENABLED"] = false,
+},
+["SAVEFRAMEPOSITION"] = {
+["ENABLED"] = true,
+},
+["CHATBUTTONFRAME1"] = {
+["ENABLED"] = false,
+},
+["COMPACTARENAFRAME"] = {
+["ENABLED"] = false,
+},
+["SHOWMINIMAPBUTTON"] = {
+["ENABLED"] = false,
+},
+["CHAT7"] = {
+["ENABLED"] = false,
+},
+["DURABILITY"] = {
+["ENABLED"] = false,
+},
+["MOVEFRAMES"] = {
+["ENABLED"] = true,
+},
+["CHAT2"] = {
+["ENABLED"] = false,
+},
+["GAMETOOLTIP_ONCURSOR"] = {
+["ENABLED"] = false,
+},
+["MainStatusTrackingBarContainer"] = {
+["ENABLED"] = false,
+},
+["COMBOPOINTPLAYERFRAME"] = {
+["ENABLED"] = false,
+},
+["ExpansionLandingPageMinimapButton"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR4"] = {
+["ENABLED"] = false,
+},
+["MONKSTAGGERBAR"] = {
+["ENABLED"] = false,
+},
+["BONUSROLLFRAME"] = {
+["ENABLED"] = false,
+},
+["CASTINGBAR"] = {
+["ENABLED"] = false,
+},
+["UIERRORSFRAME"] = {
+["ENABLED"] = false,
+},
+["UIWIDGETTOPCENTER"] = {
+["ENABLED"] = false,
+},
+["GROUPLOOTFRAME1"] = {
+["ENABLED"] = false,
+},
+["MALOCK"] = {
+["ENABLED"] = false,
+},
+["CASTINGBARTIMER"] = {
+["ENABLED"] = false,
+},
+["TALKINGHEAD"] = {
+["ENABLED"] = false,
+},
+["TARGETFRAMENAMEBACKGROUND"] = {
+["ENABLED"] = false,
+},
+["PALADINPOWERBARFRAME"] = {
+["ENABLED"] = false,
+},
+["MAFPSFrame"] = {
+["ENABLED"] = false,
+},
+["ENDCAPS"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME7"] = {
+["ENABLED"] = false,
+},
+["BOSSTARGETFRAMECONTAINER"] = {
+["ENABLED"] = false,
+},
+["PARTYFRAME"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME10"] = {
+["ENABLED"] = false,
+},
+["MIRRORTIMER1"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME2"] = {
+["ENABLED"] = false,
+},
+["OVERRIDEACTIONBAR"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR8"] = {
+["ENABLED"] = false,
+},
+["UIWIDGETBELOWMINIMAP"] = {
+["ENABLED"] = false,
+},
+["TARGETOFTARGETFRAME"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME3"] = {
+["ENABLED"] = false,
+},
+["GAMETOOLTIP"] = {
+["ENABLED"] = false,
+},
+["UIWIDGETPOWERBAR"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR3"] = {
+["ENABLED"] = false,
+},
+["READYCHECKLISTENERFRAME"] = {
+["ENABLED"] = false,
+},
+["CHATQUICKJOIN"] = {
+["ENABLED"] = false,
+},
+["FRAMESKEYSCALE"] = {
+["ENABLED"] = false,
+},
+["TARGETFRAME"] = {
+["ENABLED"] = false,
+},
+["BNToastFrame"] = {
+["ENABLED"] = false,
+},
+["TARGETOFFOCUSFRAME"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR7"] = {
+["ENABLED"] = false,
+},
+["DISABLEMOVEMENT"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME9"] = {
+["ENABLED"] = false,
+},
+["FRAMESKEYRESET"] = {
+["ENABLED"] = false,
+},
+["ALERTFRAME"] = {
+["ENABLED"] = false,
+},
+["ACTIONBARS"] = {
+},
+["ZONEABILITYFRAME"] = {
+["ENABLED"] = false,
+},
+["FOCUSFRAMESPELLBAR"] = {
+["ENABLED"] = false,
+},
+["MAPROFILES"] = {
+["ENABLED"] = false,
+},
+["LOSSOFCONTROLFRAME"] = {
+["ENABLED"] = false,
+},
+["MICROMENU"] = {
+["ENABLED"] = false,
+},
+["BOSSBANNER"] = {
+["ENABLED"] = false,
+},
+["COMPACTRAIDFRAMECONTAINER"] = {
+["ENABLED"] = false,
+},
+["RAIDBOSSEMOTEFRAME"] = {
+["ENABLED"] = false,
+},
+["FOCUSFRAME"] = {
+["ENABLED"] = false,
+},
+["MINIMAPFLAG"] = {
+["ENABLED"] = false,
+},
+["LEAVEVEHICLE"] = {
+["ENABLED"] = false,
+},
+["QUEUESTATUSFRAME"] = {
+["ENABLED"] = false,
+},
+["CHAT9"] = {
+["ENABLED"] = false,
+},
+["BUFFS"] = {
+["ENABLED"] = false,
+},
+["CHATEDITBOX"] = {
+["ENABLED"] = false,
+},
+["EventToastManagerFrame"] = {
+["ENABLED"] = false,
+},
+["CHAT4"] = {
+["ENABLED"] = false,
+},
+["GROUPLOOTCONTAINER"] = {
+["ENABLED"] = false,
+},
+["SecondaryStatusTrackingBarContainer"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME5"] = {
+["ENABLED"] = false,
+},
+["COMPACTRAIDFRAMEMANAGER"] = {
+["ENABLED"] = false,
+},
+["PLAYERFRAME"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME6"] = {
+["ENABLED"] = false,
+},
+["FRAMESKEYDRAG"] = {
+["ENABLED"] = false,
+},
+["BLIZZARDACTIONBUTTONSART"] = {
+["ENABLED"] = false,
+},
+["TICKETSTATUSFRAME"] = {
+["ENABLED"] = false,
+},
+["DEBUFFS"] = {
+["ENABLED"] = false,
+},
+["WARLOCKPOWERFRAME"] = {
+["ENABLED"] = false,
+},
+["TargetFrameNumericalThreat"] = {
+["ENABLED"] = false,
+},
+["QUEUESTATUSBUTTON"] = {
+["ENABLED"] = false,
+},
+["CHAT8"] = {
+["ENABLED"] = false,
+},
+["MAPETFRAME"] = {
+["ENABLED"] = false,
+},
+["SAVEFRAMESCALE"] = {
+["ENABLED"] = true,
+},
+["MOVESMALLBAGS"] = {
+["ENABLED"] = false,
+},
+["GHOSTFRAME"] = {
+["ENABLED"] = false,
+},
+["SHOWTIPS"] = {
+["ENABLED"] = true,
+},
+["ZONETEXTFRAME"] = {
+["ENABLED"] = false,
+},
+["MOVELOOTFRAME"] = {
+["ENABLED"] = false,
+},
+["OBJECTIVETRACKERBONUSBANNERFRAME"] = {
+["ENABLED"] = false,
+},
+["COMBOFRAME"] = {
+["ENABLED"] = false,
+},
+["CHATBUTTONFRAME4"] = {
+["ENABLED"] = false,
+},
+["ACTIONBAR1"] = {
+["ENABLED"] = false,
+},
+["VEHICLESEATINDICATOR"] = {
+["ENABLED"] = false,
+},
+["POSSESSBAR"] = {
+["ENABLED"] = false,
+},
+["SPELLACTIVATIONOVERLAYFRAME"] = {
+["ENABLED"] = false,
+},
+["CHAT1"] = {
+["ENABLED"] = false,
+},
+["MONKHARMONYBARFRAME"] = {
+["ENABLED"] = false,
+},
+["POWERBAR"] = {
+["ENABLED"] = false,
+},
+},
+},
+["FRAMES"] = {
+["POINTS"] = {
+["AddonList"] = {
+},
+["GameMenuFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 428,
+["PX"] = 1045,
+["RE"] = "BOTTOMLEFT",
+},
+["ItemTextFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 612,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 16,
+},
+["GroupLootHistoryFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 100,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 226,
+},
+["GarrisonLandingPage"] = {
+},
+["StaticPopup1"] = {
+["AN"] = "BOTTOMLEFT",
+["PA"] = "UIParent",
+["RE"] = "BOTTOMLEFT",
+["PY"] = 698,
+["PX"] = 937,
+},
+["QuestFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 555,
+["PX"] = 181,
+["RE"] = "BOTTOMLEFT",
+},
+["ChallengesKeystoneFrame"] = {
+},
+["CalendarFrame"] = {
+},
+["ProfessionsFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 113,
+["PX"] = 0,
+["RE"] = "BOTTOMLEFT",
+},
+["PVPReadyDialog"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 814,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 868,
+},
+["SettingsPanel"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 194,
+["PX"] = 420,
+["RE"] = "BOTTOMLEFT",
+},
+["WardrobeFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 431,
+["PX"] = 14,
+["RE"] = "BOTTOMLEFT",
+},
+["SplashFrame"] = {
+},
+["FriendsFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 612,
+["PX"] = 16,
+["RE"] = "BOTTOMLEFT",
+},
+["GossipFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 545,
+["PX"] = 0,
+["RE"] = "BOTTOMLEFT",
+},
+["DelvesDifficultyPickerFrame"] = {
+},
+["ContainerFrameCombinedBags"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 335,
+["PX"] = 1411,
+["RE"] = "BOTTOMLEFT",
+},
+["DressUpFrame"] = {
+},
+["TimeManagerFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 223,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 292,
+},
+["GenericTraitFrame"] = {
+},
+["ProfessionsBookFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 536,
+["PX"] = 21,
+["RE"] = "BOTTOMLEFT",
+},
+["PVPMatchScoreboard"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 491,
+["PX"] = 512,
+["RE"] = "BOTTOMLEFT",
+},
+["CovenantMissionFrame"] = {
+},
+["MajorFactionRenownFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 456,
+["PX"] = 17,
+["RE"] = "BOTTOMLEFT",
+},
+["ClassTrainerFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 610,
+["PX"] = 16,
+["RE"] = "BOTTOMLEFT",
+},
+["ItemUpgradeFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 496,
+["PX"] = 15,
+["RE"] = "BOTTOMLEFT",
+},
+["ItemRefTooltip"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 568,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 1090,
+},
+["MailFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 612,
+["PX"] = 16,
+["RE"] = "BOTTOMLEFT",
+},
+["ProfessionsCustomerOrdersFrame"] = {
+},
+["ScriptErrorsFrame"] = {
+},
+["AuctionHouseFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 498,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 36,
+},
+["ArchaeologyFrame"] = {
+},
+["GarrisonCapacitiveDisplayFrame"] = {
+},
+["GuildBankFrame"] = {
+},
+["StaticPopup2"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 821,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 866,
+},
+["HeroTalentsSelectionDialog"] = {
+},
+["HelpFrame"] = {
+},
+["CurrencyTransferLog"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 421,
+["PX"] = 903,
+["RE"] = "BOTTOMLEFT",
+},
+["InspectFrame"] = {
+},
+["AnimaDiversionFrame"] = {
+},
+["CommunitiesFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 348,
+["PX"] = 302,
+["RE"] = "BOTTOMLEFT",
+},
+["BankFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 576,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 17,
+},
+["TaxiFrame"] = {
+},
+["FlightMapFrame"] = {
+},
+["ModelPreviewFrame"] = {
+},
+["WeakAurasOptions"] = {
+},
+["QuickKeybindFrame"] = {
+},
+["OpenMailFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 614,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 404,
+},
+["WorldMapFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 504,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 16,
+},
+["DelvesCompanionConfigurationFrame"] = {
+},
+["MacroFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 613,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 13,
+},
+["CollectionsJournal"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 428,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 13,
+},
+["MerchantFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 585,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 11,
+},
+["BattlefieldMapFrame"] = {
+},
+["TradeFrame"] = {
+},
+["PVEFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 502,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 779,
+},
+["AchievementFrame"] = {
+},
+["PlayerChoiceFrame"] = {
+},
+["QuestLogPopupDetailFrame"] = {
+},
+["ExpansionLandingPage"] = {
+},
+["CharacterFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 367,
+["PX"] = 498,
+["RE"] = "BOTTOMLEFT",
+},
+["ReadyCheckFrame"] = {
+},
+["OrderHallMissionFrame"] = {
+},
+["SoulbindViewer"] = {
+},
+["EncounterJournal"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 126,
+["RE"] = "BOTTOMLEFT",
+["PX"] = 129,
+},
+["ItemInteractionFrame"] = {
+["AN"] = "BOTTOMLEFT",
+["PY"] = 746,
+["PX"] = 386,
+["RE"] = "BOTTOMLEFT",
+},
+["ChannelFrame"] = {
+},
+},
+["SIZES"] = {
+["AddonList"] = {
+},
+["GameMenuFrame"] = {
+["SCALE"] = 0.922,
+},
+["ItemTextFrame"] = {
+},
+["GroupLootHistoryFrame"] = {
+},
+["GarrisonLandingPage"] = {
+},
+["StaticPopup1"] = {
+["SCALE"] = 0.97,
+},
+["DelvesCompanionConfigurationFrame"] = {
+},
+["TradeFrame"] = {
+},
+["CalendarFrame"] = {
+},
+["ProfessionsFrame"] = {
+["SCALE"] = 1.21,
+},
+["PVPReadyDialog"] = {
+},
+["SettingsPanel"] = {
+["SCALE"] = 1.042,
+},
+["WardrobeFrame"] = {
+},
+["SplashFrame"] = {
+},
+["QuickKeybindFrame"] = {
+},
+["GossipFrame"] = {
+},
+["DelvesDifficultyPickerFrame"] = {
+},
+["ContainerFrameCombinedBags"] = {
+["SCALE"] = 0.94,
+},
+["DressUpFrame"] = {
+},
+["TimeManagerFrame"] = {
+},
+["PlayerSpellsFrame"] = {
+["SCALE"] = 0.97,
+},
+["GenericTraitFrame"] = {
+},
+["InspectRecipeFrame"] = {
+},
+["PVEFrame"] = {
+["SCALE"] = 0.988,
+},
+["PVPMatchScoreboard"] = {
+},
+["CovenantMissionFrame"] = {
+},
+["WeakAurasOptions"] = {
+},
+["ClassTrainerFrame"] = {
+},
+["ItemUpgradeFrame"] = {
+},
+["ItemRefTooltip"] = {
+["SCALE"] = 1.006,
+},
+["MailFrame"] = {
+},
+["ProfessionsCustomerOrdersFrame"] = {
+},
+["CollectionsJournal"] = {
+},
+["AuctionHouseFrame"] = {
+},
+["ArchaeologyFrame"] = {
+},
+["GarrisonCapacitiveDisplayFrame"] = {
+},
+["TabardFrame"] = {
+},
+["BattlefieldMapFrame"] = {
+},
+["StaticPopup2"] = {
+},
+["HeroTalentsSelectionDialog"] = {
+},
+["HelpFrame"] = {
+},
+["CurrencyTransferLog"] = {
+},
+["InspectFrame"] = {
+},
+["AnimaDiversionFrame"] = {
+},
+["CommunitiesFrame"] = {
+},
+["BankFrame"] = {
+},
+["CharacterFrame"] = {
+["SCALE"] = 0.946,
+},
+["FlightMapFrame"] = {
+},
+["ModelPreviewFrame"] = {
+},
+["MajorFactionRenownFrame"] = {
+},
+["MacroFrame"] = {
+},
+["OpenMailFrame"] = {
+},
+["ScriptErrorsFrame"] = {
+},
+["AchievementFrame"] = {
+},
+["FriendsFrame"] = {
+},
+["QuestFrame"] = {
+["SCALE"] = 1.096,
+},
+["MerchantFrame"] = {
+["SCALE"] = 1.006,
+},
+["WorldMapFrame"] = {
+["SCALE"] = 1.042,
+},
+["GuildBankFrame"] = {
+},
+["ProfessionsBookFrame"] = {
+["SCALE"] = 0.976,
+},
+["ChallengesKeystoneFrame"] = {
+},
+["PlayerChoiceFrame"] = {
+},
+["QuestLogPopupDetailFrame"] = {
+},
+["TaxiFrame"] = {
+},
+["ExpansionLandingPage"] = {
+},
+["ReadyCheckFrame"] = {
+},
+["OrderHallMissionFrame"] = {
+},
+["SoulbindViewer"] = {
+},
+["EncounterJournal"] = {
+},
+["ItemInteractionFrame"] = {
+},
+["ChannelFrame"] = {
+},
+},
+},
+},
+},
+["VERSION"] = 2,
+}

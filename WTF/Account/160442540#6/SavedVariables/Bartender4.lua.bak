@@ -1,0 +1,241 @@
+
+Bartender4DB = {
+["namespaces"] = {
+["StatusTrackingBar"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+},
+},
+},
+["QueueStatus"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["position"] = {
+["y"] = 40.5,
+["x"] = -324,
+},
+["version"] = 3,
+},
+},
+},
+["ActionBars"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["actionbars"] = {
+{
+["showgrid"] = true,
+["rows"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 96.50018310546875,
+["x"] = 301.9888305664063,
+["point"] = "LEFT",
+},
+["WoW10Layout"] = true,
+["visibility"] = {
+["custom"] = false,
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+["WoW10Layout"] = true,
+},
+{
+["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["WoW10Layout"] = true,
+},
+{
+["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["WoW10Layout"] = true,
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -231.2666320800781,
+["x"] = -284.4999389648438,
+["point"] = "CENTER",
+},
+["WoW10Layout"] = true,
+},
+{
+["showgrid"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 249.4999542236328,
+["x"] = -268.0333251953125,
+["point"] = "BOTTOM",
+},
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 204.4002685546875,
+["x"] = -405.0333251953125,
+["point"] = "CENTER",
+},
+["WoW10Layout"] = true,
+},
+[13] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 100.133544921875,
+["x"] = -431.4334106445313,
+["point"] = "CENTER",
+},
+["WoW10Layout"] = true,
+},
+[15] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -14.533203125,
+["x"] = -477.5667114257813,
+["point"] = "CENTER",
+},
+["WoW10Layout"] = true,
+},
+},
+},
+},
+},
+["LibDualSpec-1.0"] = {
+},
+["ExtraActionBar"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["position"] = {
+["y"] = 287,
+["x"] = -63.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+},
+},
+},
+["MicroMenu"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+["version"] = 3,
+},
+},
+},
+["BagBar"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+},
+},
+["BlizzardArt"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["artLayout"] = "MODERN",
+["position"] = {
+["y"] = -122.4888610839844,
+["x"] = 151.1890106201172,
+["point"] = "LEFT",
+},
+["version"] = 3,
+},
+},
+},
+["StanceBar"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
+},
+},
+},
+},
+["PetBar"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -286.2998962402344,
+["x"] = 358.2666625976563,
+["point"] = "LEFT",
+},
+},
+},
+},
+["Vehicle"] = {
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+},
+},
+},
+},
+["profileKeys"] = {
+["彭浦新村 - 芬里斯"] = "彭浦新村 - 芬里斯",
+},
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+},
+}

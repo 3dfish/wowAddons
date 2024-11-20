@@ -1,0 +1,48 @@
+
+OneRing_Config = nil
+OPie_SavedData = {
+["CharProfiles"] = {
+["芬里斯-彭浦新村-2"] = "mine",
+["芬里斯-彭浦新村"] = "mine",
+},
+["_GameVersion"] = "11.0.2",
+["_OPieVersion"] = "Ælling 3 (4.128)",
+["ProfileStorage"] = {
+["default"] = {
+["Bindings"] = {
+["x"] = false,
+},
+},
+["mine"] = {
+["Bindings"] = {
+["RaidSymbols"] = false,
+["TrinketSlots"] = false,
+["x"] = false,
+["SpecMenu"] = false,
+["CommonTrades"] = false,
+["OPieTracking"] = false,
+["OPieAutoQuest"] = false,
+["WorldMarkers"] = false,
+},
+["XTPointerSnap"] = true,
+},
+},
+["PersistentStorage"] = {
+["RingKeeper"] = {
+["x"] = {
+{
+"ring",
+"x",
+["sliceToken"] = "ABueQmtFqYw",
+},
+["limit"] = "彭浦新村-芬里斯",
+["save"] = true,
+["name"] = "嘲讽",
+},
+["OPieFlagStore"] = {
+["StoreVersion"] = 3,
+},
+},
+},
+["_GameLocale"] = "zhCN",
+}

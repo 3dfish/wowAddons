@@ -1,0 +1,12 @@
+﻿## Interface: 110005, 110007
+## Title: GladiatorlosSA_zhCN_VV
+## Title-zhCN:GladiatorlosSA_zhCN(VV)语音包
+## Title-zhTW:GladiatorlosSA_zhCN(VV)語音包
+## Notes: GSA plugin for Chinese voice set
+## Notes-zhCN: PVP技能語音提示
+## Notes-zhTW: PVP技能語音提示
+## IconTexture: Interface\AddOns\GladiatorlosSA2_zhCN_VV\Icons\VV_GSA2.tga
+## Author: VV
+## Version: 10.1.1
+
+GladiatorlosSA2_zhCN.lua

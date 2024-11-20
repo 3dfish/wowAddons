@@ -1,0 +1,43 @@
+VER 3 000000000000000B "a1" "INV_MISC_QUESTIONMARK"
+/click PVPReadyDialogEnterBattleButton
+END
+VER 3 000000000000000A "ATK" "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
+/6 Test：3.2.1{喊}
+/1 有没有收G的老板，低价出售点手工G，可以散卖, 有需要的MMMMMM!{喊}
+/2 有没有收G的老板，低价出售点手工G，可以散卖，有需要的MMMMMM!{喊}
+/3 有没有收G的老板，低价出售点手工G，可以散卖，有需要的MMMMMM!{喊}！
+/6 有没有收G的老板，低价出售点手工G，可以散卖，有需要的MMMMMM!{喊}！！
+/y 有没有收G的老板，低价出售点手工G，可以散卖，有需要的MMMMMM!{喊}！！！
+END
+VER 3 0000000000000003 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000004 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000007 "blood" "ABILITY_DEATHKNIGHT_BRITTLEBONES"
+/use 治疗石
+/cast 符能转换
+END
+VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 净化疾病;  [@mouseover,exists,mod:ctrl] 驱散魔法; [@mouseover,exists,mod:shift] 净化疾病
+END
+VER 3 0000000000000009 "HF" "ABILITY_SHOOTWAND"
+/use 崇敬先祖卷轴
+/cast 摧心魔
+/cast 奥术洪流
+END
+VER 3 0000000000000006 "tae" "INV_KNIFE_1H_PANDARAID_D_02"
+/tar 黎明的残影
+END
+VER 3 0000000000000005 "兔子" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/tar 金毛跳跳兔
+END
+VER 3 0000000000000001 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000008 "符文武器增效" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/use 诺斯的特殊药剂
+/cast 符文武器增效
+END

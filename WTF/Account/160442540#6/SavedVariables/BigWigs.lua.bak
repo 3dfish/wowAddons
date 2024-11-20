@@ -1,0 +1,268 @@
+
+BigWigs3DB = {
+["namespaces"] = {
+["BigWigs_Plugins_Victory"] = {
+},
+["BigWigs_Plugins_BossBlock"] = {
+},
+["BigWigs_Bosses_Shadowcrown"] = {
+},
+["BigWigs_Plugins_Sounds"] = {
+},
+["BigWigs_Plugins_AutoReply"] = {
+},
+["BigWigs_Bosses_Anub'ikkaj"] = {
+},
+["BigWigs_Plugins_Countdown"] = {
+["profiles"] = {
+["Default"] = {
+["voice"] = "中文语音：VV（女）",
+},
+},
+},
+["BigWigs_Plugins_AltPower"] = {
+},
+["BigWigs_Bosses_The Dawnbreaker Trash"] = {
+},
+["BigWigs_Plugins_Colors"] = {
+},
+["BigWigs_Plugins_Raid Icons"] = {
+},
+["BigWigs_Plugins_InfoBox"] = {
+},
+["BigWigs_Plugins_Bars"] = {
+},
+["BigWigs_Bosses_Rasha'nan Dawnbreaker"] = {
+},
+["BigWigs_Plugins_Wipe"] = {
+},
+["BigWigs_Plugins_Messages"] = {
+},
+["LibDualSpec-1.0"] = {
+},
+["BigWigs_Plugins_Proximity"] = {
+},
+["BigWigs_Plugins_Nameplates"] = {
+},
+["BigWigs_Plugins_Pull"] = {
+},
+["BigWigs_Plugins_Statistics"] = {
+},
+},
+["profileKeys"] = {
+["彭浦新村 - 芬里斯"] = "Default",
+},
+["global"] = {
+["watchedMovies"] = {
+[-2292] = true,
+[-2296] = true,
+},
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}
+BigWigsIconDB = {
+["minimapPos"] = 255.427595395564,
+}
+BigWigsStatsDB = {
+[2657] = {
+[2609] = {
+["heroic"] = {
+["kills"] = 4,
+["fkDuration"] = 320.6659999999683,
+["wipes"] = 2,
+["fkWipes"] = 2,
+["best"] = 240.622999999905,
+["bestDate"] = "2024/10/24",
+["fkDate"] = "2024/10/17",
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 150.4170000000158,
+["fkDuration"] = 150.4170000000158,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDuration"] = 257.8690000000643,
+["best"] = 257.8690000000643,
+["bestDate"] = "2024/10/20",
+["fkDate"] = "2024/10/20",
+},
+},
+[2608] = {
+["heroic"] = {
+["kills"] = 5,
+["fkDate"] = "2024/10/16",
+["bestDate"] = "2024/10/25",
+["fkWipes"] = 5,
+["best"] = 425.811999999918,
+["wipes"] = 13,
+["fkDuration"] = 426.7210000000196,
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 232.73199999996,
+["fkDuration"] = 232.73199999996,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDuration"] = 298.0350000000326,
+["best"] = 232.2390000000596,
+["bestDate"] = "2024/11/05",
+["fkDate"] = "2024/10/20",
+},
+},
+[2611] = {
+["heroic"] = {
+["kills"] = 4,
+["fkDuration"] = 267.423000000068,
+["wipes"] = 8,
+["fkWipes"] = 1,
+["best"] = 238.2819999998901,
+["bestDate"] = "2024/10/24",
+["fkDate"] = "2024/10/17",
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 132.6420000000508,
+["fkDuration"] = 132.6420000000508,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDate"] = "2024/10/20",
+["bestDate"] = "2024/11/02",
+["fkWipes"] = 1,
+["best"] = 154.2020000000484,
+["wipes"] = 2,
+["fkDuration"] = 396.655999999959,
+},
+},
+[2612] = {
+["heroic"] = {
+["kills"] = 5,
+["fkDate"] = "2024/10/16",
+["bestDate"] = "2024/10/24",
+["fkWipes"] = 9,
+["best"] = 328.4890000000596,
+["wipes"] = 21,
+["fkDuration"] = 471.4139999999898,
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["fkWipes"] = 1,
+["best"] = 143.4670000000042,
+["wipes"] = 1,
+["fkDuration"] = 143.4670000000042,
+},
+["LFR"] = {
+["kills"] = 1,
+["fkDuration"] = 369.5100000000093,
+["best"] = 369.5100000000093,
+["bestDate"] = "2024/11/03",
+["fkDate"] = "2024/11/03",
+},
+},
+[2599] = {
+["heroic"] = {
+["kills"] = 4,
+["fkDuration"] = 225.8169999999227,
+["wipes"] = 1,
+["best"] = 204.5540000000037,
+["bestDate"] = "2024/10/24",
+["fkDate"] = "2024/10/17",
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 124.0169999999926,
+["fkDuration"] = 124.0169999999926,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDate"] = "2024/10/20",
+["bestDate"] = "2024/11/02",
+["best"] = 143.5370000000112,
+["fkDuration"] = 237.3249999999534,
+},
+},
+[2607] = {
+["heroic"] = {
+["kills"] = 4,
+["fkDuration"] = 379.2589999999618,
+["best"] = 269.8080000001937,
+["bestDate"] = "2024/11/13",
+["fkDate"] = "2024/10/17",
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 102.1160000000382,
+["fkDuration"] = 102.1160000000382,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDate"] = "2024/10/20",
+["bestDate"] = "2024/11/02",
+["best"] = 192.9540000001434,
+["fkDuration"] = 259.3019999999087,
+},
+},
+[2601] = {
+["heroic"] = {
+["kills"] = 5,
+["fkDate"] = "2024/10/16",
+["bestDate"] = "2024/10/16",
+["fkWipes"] = 4,
+["best"] = 271.0639999999548,
+["wipes"] = 9,
+["fkDuration"] = 271.0639999999548,
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 135.4480000000331,
+["fkDuration"] = 135.4480000000331,
+},
+["LFR"] = {
+["kills"] = 1,
+["fkDuration"] = 250.5520000001416,
+["best"] = 250.5520000001416,
+["bestDate"] = "2024/11/03",
+["fkDate"] = "2024/11/03",
+},
+},
+[2602] = {
+["heroic"] = {
+["wipes"] = 23,
+},
+["normal"] = {
+["kills"] = 1,
+["fkDate"] = "2024/11/18",
+["bestDate"] = "2024/11/18",
+["best"] = 263.8390000000363,
+["fkDuration"] = 263.8390000000363,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDuration"] = 470.8539999999339,
+["best"] = 350.8009999999777,
+["bestDate"] = "2024/11/05",
+["fkDate"] = "2024/10/20",
+},
+},
+},
+}
+BigWigsTempNameplates = true

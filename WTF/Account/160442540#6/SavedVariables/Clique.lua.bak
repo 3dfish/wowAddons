@@ -1,0 +1,58 @@
+
+CliqueDB = nil
+CliqueDB3 = {
+["char"] = {
+["彭浦新村 - 芬里斯"] = {
+["spec1_profileKey"] = "彭浦新村 - 芬里斯",
+["blizzframes"] = {
+["PetFrame"] = false,
+["FocusFrameToT"] = false,
+["PlayerFrame"] = false,
+["TargetFrameToT"] = false,
+["FocusFrame"] = false,
+["statusBarFix"] = false,
+["TargetFrame"] = false,
+},
+["fastooc"] = false,
+["spec3_profileKey"] = "彭浦新村 - 芬里斯",
+["downclick"] = false,
+["specswap"] = false,
+["spec2_profileKey"] = "彭浦新村 - 芬里斯",
+},
+},
+["profileKeys"] = {
+["彭浦新村 - 芬里斯"] = "彭浦新村 - 芬里斯",
+},
+["profiles"] = {
+["彭浦新村 - 芬里斯"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["icon"] = 132212,
+["type"] = "menu",
+["key"] = "CTRL-BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+{
+["spell"] = "清创生血",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+["friend"] = true,
+},
+["icon"] = 460692,
+["type"] = "spell",
+},
+},
+},
+},
+}

@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: Wind Energy Display
+## Notes: Displays the player's current energy on the first action button.
+## Author: wikiWang
+## Version: 1.0
+## SavedVariables:
+## Dependencies:
+WindEnergyDisplay.lua

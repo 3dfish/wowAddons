@@ -1,0 +1,63 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 141.6999259532004,
+["showInCompartment"] = true,
+["lock"] = false,
+["hide"] = false,
+},
+}
+RaiderIO_LastCharacter = "cn-彭浦新村-fenris"
+RaiderIO_MissingCharacters = {
+["cn-潮昇-shadowmourne"] = true,
+["cn-牢盗-the-masters-glaive"] = true,
+["cn-Cuit-shadowmourne"] = true,
+["cn-Martincx-fenris"] = true,
+["cn-小脆饼-fenris"] = true,
+["cn-小小诺-dark-iron"] = true,
+["cn-酷里奇的男人-pandaren"] = true,
+["cn-伊丷飛-isillien"] = true,
+["cn-一直在飞-wing-of-the-whelping"] = true,
+["cn-十四月的菠萝-silver-hand"] = true,
+["cn-Cuit-fenris"] = true,
+["cn-奕奕一-skettis"] = true,
+["cn-Walalilongla-shadowmourne"] = true,
+["cn-party4-fenris"] = true,
+["cn-Fungal-shadowmourne"] = true,
+["cn-奕奕一-fenris"] = true,
+["cn-光煞-pandaren"] = true,
+["cn-二呀嘛二丶-dark-iron"] = true,
+["cn-伊利达雷领主-fenris"] = true,
+["cn-差点成帅锅-burning-blade"] = true,
+["cn-我戳死你-fenris"] = true,
+["cn-同谋-shadowmourne"] = true,
+["cn-埋葬丨灵魂-demonslayer"] = true,
+["cn-永夜-blue-dragonflight"] = true,
+["cn-琦梦-executus"] = true,
+["cn-祉战丶之伤-fenris"] = true,
+["cn-灬不言-alar"] = true,
+["cn-小丘傻馒-fenris"] = true,
+["cn-悠悠鹿鸣-frostmourne"] = true,
+["cn-緋紅之玥-alar"] = true,
+["cn-昶魑乀-dark-iron"] = true,
+["cn-微纤维德-archimonde"] = true,
+["cn-祉战丶之伤-burning-blade"] = true,
+["cn-彭浦新村-fenris"] = true,
+["cn-奇怪的牛-voljin"] = true,
+["cn-如意柚子-fenris"] = true,
+["cn-奶好我能抗-the-masters-glaive"] = true,
+["cn-甘露寺蜜璃-fenris"] = true,
+["cn-如意柚子-rhonin"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

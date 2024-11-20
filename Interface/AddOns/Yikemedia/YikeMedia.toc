@@ -1,0 +1,12 @@
+﻿## Interface: 110005
+## Author: 灵魂复苏
+## 配音：夏一可
+## Version: 1.0.5.1
+## Title: |cffe6cc7fY|r|cffe8c56fi|r|cffeabd60k|r|cffe9b450e|r|cfff3a233M|r|cfff79724e|r|cfffb8c14d|r|cffff8000i|r|cfffb8c14a|r
+## Title-zhCN: |cffe6cc7f夏|r|cffe8c56f一|r|cffeabd60可|r|cffe9b450语|r|cfff3a233音|r|cfff79724媒|r|cfffb8c14体|r|cffff8000包|r
+## Title-zhTW: |cffe6cc7f夏|r|cffe8c56f一|r|cffeabd60可|r|cffe9b450語|r|cfff3a233音|r|cfff79724媒|r|cfffb8c14體|r|cffff8000包|r
+## Notes: Collection of Xiayike media.
+## Notes-zhCN: 夏一可配音语音包，配合各种WA使用。
+## IconTexture: Interface\AddOns\Yikemedia\Icons\xyk_logo.tga
+## DefaultState: enabled
+YikeMedia.lua

@@ -1,0 +1,108 @@
+VER 3 0100000000000001 "D白虎下凡" "134400"
+#showtooltip 白虎下凡
+/startattack
+/cast 白虎下凡
+END
+VER 3 0100000000000002 "D风领主之击" "134400"
+#showtooltip 风领主之击
+/startattack
+/cast 风领主之击
+END
+VER 3 0100000000000003 "H作茧缚命" "134400"
+#showtooltip 作茧缚命
+/tar [@mouseover,help,nodead,exists]mouseover
+/cast [@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]作茧缚命
+END
+VER 3 0100000000000004 "H复苏之雾" "134400"
+#showtooltip 复苏之雾
+/tar [@mouseover,help,nodead,exists]mouseover
+/cast [@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]复苏之雾
+END
+VER 3 0100000000000005 "H抚慰之雾" "134400"
+#showtooltip 抚慰之雾
+/tar [@mouseover,help,nodead,exists]mouseover
+/cast [@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]抚慰之雾
+END
+VER 3 0100000000000006 "H氤氲之雾" "134400"
+#showtooltip 氤氲之雾
+/tar [@mouseover,help,nodead,exists]mouseover
+/cast [@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]氤氲之雾
+END
+VER 3 0100000000000019 "H法力茶" "134400"
+#showtooltip 法力茶
+/cast [nochanneling:法力茶]法力茶
+/stopcasting [channeling:法力茶]
+END
+VER 3 0100000000000007 "H活血术" "134400"
+#showtooltip 活血术
+/tar [@mouseover,help,nodead,exists]mouseover
+/cast [@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]活血术
+END
+VER 3 0100000000000008 "H猛虎掌灭" "134400"
+#showtooltip 
+/startattack
+/castsequence reset=2 猛虎掌,幻灭踢
+END
+VER 3 0100000000000013 "H神龙之赐" "134400"
+#showtooltip 神龙之赐
+/tar [@mouseover,help,nodead,exists]mouseover
+/cast [@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]神龙之赐
+END
+VER 3 010000000000000A "T爆炸酒桶" "134400"
+#showtooltip 爆炸酒桶
+/cast 醉上加醉
+/cast 爆炸酒桶
+END
+VER 3 010000000000000D "分筋错骨" "134400"
+#showtooltip 分筋错骨
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]分筋错骨
+END
+VER 3 010000000000000E "切喉手" "134400"
+#showtooltip 切喉手
+/cast [@focus,nohelp,nodead,exists][@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]切喉手
+END
+VER 3 0100000000000009 "嚎镇八方" "134400"
+#showtooltip 嚎镇八方
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]嚎镇八方
+END
+VER 3 010000000000000F "对冲" "134400"
+#showtooltip 对冲
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]对冲
+END
+VER 3 0100000000000010 "抓钩武器" "134400"
+#showtooltip 抓钩武器
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]抓钩武器
+END
+VER 3 0100000000000011 "清创生血" "134400"
+#showtooltip 清创生血
+/cast [@mouseover,help,nodead,exists][@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]清创生血
+END
+VER 3 0100000000000012 "碎玉闪电" "134400"
+#showtooltip 碎玉闪电
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]碎玉闪电
+END
+VER 3 010000000000000B "群嘲" "620830"
+#showtooltip 嚎镇八方
+/tar 玄牛雕像
+/cast [help, exists] 嚎镇八方
+END
+VER 3 0100000000000014 "自虎" "134400"
+#showtooltip 迅如猛虎
+/cast [@player]迅如猛虎
+END
+VER 3 0100000000000016 "轮回之触" "134400"
+#showtooltip 轮回之触
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]轮回之触
+END
+VER 3 0100000000000015 "迅如猛虎" "134400"
+#showtooltip 迅如猛虎
+/cast [@mouseover,help,nodead,exists][@target,help,nodead,exists][@targettarget,help,nodead,exists][@player]迅如猛虎
+END
+VER 3 0100000000000017 "金刚震" "134400"
+#showtooltip 金刚震
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]金刚震
+END
+VER 3 0100000000000018 "震山掌" "134400"
+#showtooltip 震山掌
+/cast [@mouseover,nohelp,nodead,exists][@target,nohelp,nodead,exists][@targettarget,nohelp,nodead,exists]震山掌
+END

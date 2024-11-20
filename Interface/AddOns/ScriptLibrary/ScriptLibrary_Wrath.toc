@@ -1,0 +1,24 @@
+## Interface: 30401
+## Title: Script Library
+## Notes: An addon by Terciob, organize and save scripts which can be executed on demand or executed on login.
+## SavedVariables: RuntimeEditorDB, ScriptLibraryDB
+
+## X-Curse-Project-ID: 630025
+## X-Wago-ID: qv63OD6b
+
+#@no-lib-strip@
+libs\libs.xml
+#@end-no-lib-strip@
+
+indent.lua
+SL_Init.lua
+SL_Environment.lua
+SL_ScriptExec.lua
+SL_ScriptMenu.lua
+SL_ImportExport.lua
+SL_OptionsFrame.lua
+SL_Editor.lua
+SL_WindowControl.lua
+SL_ScriptObject.lua
+SL_ScriptPages.lua
+SL_Version.lua

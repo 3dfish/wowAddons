@@ -1,0 +1,219 @@
+
+WQTrackerDB = {
+["profileKeys"] = {
+["彭浦新村 - 芬里斯"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["TutorialTracker"] = 2,
+["world_map_hubscale"] = {
+[875] = 0.9,
+[947] = 1,
+[1978] = 0.85,
+[1550] = 1,
+[876] = 0.9,
+[619] = 0.3,
+[2274] = 0.95,
+},
+["player_names"] = {
+["Player-959-0505BE64"] = {
+["class"] = "MONK",
+["name"] = "彭浦新村",
+["realm"] = "芬里斯",
+},
+},
+["groupfinder"] = {
+["frame"] = {
+["y"] = 32.79998779296875,
+["x"] = 103.9997863769531,
+["point"] = "CENTER",
+["scale"] = 1,
+},
+},
+["is_BFA_version"] = true,
+["quests_tracked"] = {
+["Player-959-0505BE64"] = {
+},
+},
+["quests_all_characters"] = {
+["Player-959-0505BE64"] = {
+[50735] = {
+["expireAt"] = 1725289276,
+["rewardAmount"] = "|cff2292FF81",
+["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+},
+[82291] = {
+["expireAt"] = 1725231630,
+["rewardAmount"] = "19",
+["rewardTexture"] = 133675,
+},
+[82293] = {
+["expireAt"] = 1725253247,
+["rewardAmount"] = "20",
+["rewardTexture"] = 2004597,
+},
+[54060] = {
+["expireAt"] = 1725231616,
+["rewardAmount"] = "",
+["rewardTexture"] = 237368,
+},
+[52325] = {
+["expireAt"] = 1725274876,
+["rewardAmount"] = "1",
+["rewardTexture"] = 667492,
+},
+[82580] = {
+["expireAt"] = 1725231647,
+["rewardAmount"] = 36,
+["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+},
+[82088] = {
+["expireAt"] = 1725404478,
+["rewardAmount"] = "|cff2292FF564",
+["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+},
+[81811] = {
+["expireAt"] = 1725490847,
+["rewardAmount"] = "",
+["rewardTexture"] = 1519429,
+},
+[52455] = {
+["expireAt"] = 1725231676,
+["rewardAmount"] = "18",
+["rewardTexture"] = 2004597,
+},
+[51743] = {
+["expireAt"] = 1725231616,
+["rewardAmount"] = "|cff2292FF81",
+["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+},
+[82133] = {
+["expireAt"] = 1725318078,
+["rewardAmount"] = 37,
+["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+},
+[52856] = {
+["expireAt"] = 1725274876,
+["rewardAmount"] = "6",
+["rewardTexture"] = 1045106,
+},
+[50853] = {
+["expireAt"] = 1725231676,
+["rewardAmount"] = "|cff2292FF80",
+["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+},
+[82300] = {
+["expireAt"] = 1725274847,
+["rewardAmount"] = "13",
+["rewardTexture"] = 2004597,
+},
+[81806] = {
+["expireAt"] = 1725490830,
+["rewardAmount"] = 0,
+["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+},
+[80323] = {
+["expireAt"] = 1725231707,
+["rewardAmount"] = "25",
+["rewardTexture"] = 133016,
+},
+[51583] = {
+["expireAt"] = 1725231676,
+["rewardAmount"] = "|cff2292FF59",
+["rewardTexture"] = 2201832,
+},
+},
+},
+["history"] = {
+["quest"] = {
+["global"] = {
+[82526] = 1,
+["total"] = 6,
+[81750] = 1,
+[80295] = 1,
+[83079] = 1,
+[83537] = 1,
+[82225] = 1,
+},
+["character"] = {
+["Player-959-0505BE64"] = {
+[82526] = 1,
+["total"] = 6,
+[81750] = 1,
+[80295] = 1,
+[83079] = 1,
+[83537] = 1,
+[82225] = 1,
+},
+},
+},
+["period"] = {
+["global"] = {
+["240901"] = {
+["quest"] = 5,
+["resource"] = 50,
+["gold"] = 16168500,
+},
+["240831"] = {
+["quest"] = 1,
+["gold"] = 8237300,
+},
+},
+["character"] = {
+["Player-959-0505BE64"] = {
+["240901"] = {
+["quest"] = 5,
+["resource"] = 50,
+["gold"] = 16168500,
+},
+["240831"] = {
+["quest"] = 1,
+["gold"] = 8237300,
+},
+},
+},
+},
+["reward"] = {
+["global"] = {
+["resource"] = 50,
+["gold"] = 24405800,
+},
+["character"] = {
+["Player-959-0505BE64"] = {
+["resource"] = 50,
+["gold"] = 24405800,
+},
+},
+},
+},
+["pins_discovered"] = {
+["worldquest-Capstone-questmarker-epic-Locked"] = {
+[7828] = {
+["poiID"] = 7828,
+["mapID"] = 2215,
+["tooltipSetId"] = 1120,
+["worldY"] = 0.3747150003910065,
+["zoneX"] = 0.6303520202636719,
+["continentID"] = 2274,
+["worldX"] = 0.4383490979671478,
+["zoneY"] = 0.08865920454263687,
+},
+[7826] = {
+["poiID"] = 7826,
+["mapID"] = 2214,
+["tooltipSetId"] = 1119,
+["worldY"] = 0.4605581760406494,
+["zoneX"] = 0.5516603589057922,
+["continentID"] = 2274,
+["worldX"] = 0.5552620887756348,
+["zoneY"] = 0.1255691051483154,
+},
+},
+},
+},
+},
+}
+WQTrackerLanguage = {
+["language"] = "zhCN",
+["version"] = 1,
+}
